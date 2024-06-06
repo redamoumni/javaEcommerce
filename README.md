@@ -1,6 +1,3 @@
-Here's a sample README file for your project in English:
-
----
 
 # E-Commerce Application
 
@@ -139,19 +136,3 @@ Once the application is running, you can interact with the user management featu
     ```sh
     curl -X DELETE http://localhost:8080/users/1
     ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Special thanks to the contributors and the open-source community for their valuable work and support.
-
----
-
-Feel free to modify this README file according to your project's specific details and requirements.
